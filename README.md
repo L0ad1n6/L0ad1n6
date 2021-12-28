@@ -10,11 +10,10 @@
 - 🔥 I'm looking for people interested in collaborating on a project.
 - 😎 My goal is to have a github account with many cool, **complete** projects
 
-### Get In Touch:
-
-[![Instgram](https://raw.githubusercontent.com/L0ad1n6/L0ad1n6/master/icons/instagram.png)](https://www.instagram.com/altanmunver/)
-[![Discord](https://raw.githubusercontent.com/L0ad1n6/L0ad1n6/master/icons/instagram.png)](https://discord.gg/8us8PFDXYu)
-[![Email](https://raw.githubusercontent.com/L0ad1n6/L0ad1n6/master/icons/instagram.png)](mailto:altan.mehmet.unver@gmail.com)
+### Contact Me: 
+[<img src="https://raw.githubusercontent.com/L0ad1n6/L0ad1n6/master/icons/instagram.png" alt="Instagram" width="40"/>](https://www.instagram.com/altanmunver/)
+[<img src="https://raw.githubusercontent.com/L0ad1n6/L0ad1n6/master/icons/discord.png" alt="Discord" width="40"/>](https://discord.gg/8us8PFDXYu)
+[<img src="https://raw.githubusercontent.com/L0ad1n6/L0ad1n6/master/icons/mail.png" alt="Mail" width="40"/>](mailto:altan.mehmet.unver@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0ad1n6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=L0ad1n6&show_icons=true&theme=tokyonight&hide_border=true&v=2&langs_count=15)
