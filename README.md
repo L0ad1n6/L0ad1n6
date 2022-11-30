@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=e2563f)
 ## I'm a student, programmer and an overall a curious person
 - 📈 I'm currently working on an autonomous HexaPod
-- 🖥️ I'm learning embedded rust and x86-64 assembly.
+- 🖥️ I'm learning embedded rust and x86-64 assembly (Started **VERY** recently).
 - 🔥 I'm looking for people interested in collaborating on a project.
 - 😎 My goal is to have a github account with many cool, **complete** projects, that benefit others.
 
