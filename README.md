@@ -1,4 +1,5 @@
 # Hello there, I'm Altan - aka L0ad1n6
+![](https://komarev.com/ghpvc/?username=L0ad1n6&color=1e7dc8)
 [![wakatime](https://wakatime.com/badge/user/fdbac85c-fc42-48ac-ac8d-5e29fabd2ed5.svg)](https://wakatime.com/@fdbac85c-fc42-48ac-ac8d-5e29fabd2ed5)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=1e7dc8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1e7dc8)
